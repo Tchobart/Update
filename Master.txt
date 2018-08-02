@@ -8,7 +8,3 @@
 /Data/System https://raw.githubusercontent.com/Tchobart/Update/master/System.json
 <End of Version>
 
-<Version: 1.03>
-/img/SumRndmDde/auto-update/Background.png https://raw.githubusercontent.com/Tchobart/Update/master/Background.png
-<End of Version>
-
