@@ -4,5 +4,6 @@
 <End of Version>
 
 <version: 1.02>
+(Systeme jours/nuit)(Systeme Heures)
 /Data/System https://raw.githubusercontent.com/Tchobart/Update/master/System.json
 <End of Version>
