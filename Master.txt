@@ -1,6 +1,7 @@
 
 <version: 1.01>
 /Data/Skills https://raw.githubusercontent.com/Tchobart/Update/master/Skills.json
+/img/SumRndmDde/auto-update/Background.png https://raw.githubusercontent.com/Tchobart/Update/master/Background.png
 <End of Version>
 
 <version: 1.02>
